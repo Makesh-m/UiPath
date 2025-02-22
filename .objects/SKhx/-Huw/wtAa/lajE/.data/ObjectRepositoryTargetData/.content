@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-WsOiDoWwUCO_Qy8RYGQkg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1244, 470, 8, 16" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;svg&amp;gt;path' tag='path' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='path' class='' aaname='' /&gt;" Guid="c62a85ac-77c6-479b-aa78-7ab58b7bc5ae" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAwAAAAUCAYAAAC58NwRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADJSURBVDhPY1BQVPlPCqZcg5qx13993/r/+j51QLYnihwIo2gwCpv836n1Cwo2CpuEXYO2QyqGYhjWdkjB1GCasByrYhAGyWFosMo7glUxCIPkMDRY5hzAqhiEQXKjGuijwTxtM1bFIAySg2tQVVUGM/S8a7AqBmGQHEiNshJQQ1G0BFy3ZdYeDMUgMZh8jLbmf4Zna9n/G+spwgX1vKvBTgBhEBsmrgY0/aSt0X+G37tZ/x+IVP1voaoGl0THIKcsNtf//8rZ9D8AYHvnKLJ+R9EAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8123371d5b3ae630753907b891896928.png" xmlns="">0UZknMV48G0SV2uOTuN27JA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cR78FYW01kaigpXjLTb8zw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7da1dab8-0f0d-4f5a-a021-edca4a9a4d9d" CvElementArea="1829, 17, 25, 25" CvType="MaximizeButton" DesignTimeRectangle="1814, 9, 58, 43" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Restore' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Restore' role='push button' automationid='' check:text='Restore' /&gt;" Guid="1994bb0e-6849-43b9-b44d-29ae5e5838c4" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD4AAAAvCAYAAAC7S3l6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAD8SURBVGhD7dYxCsIwFMbxTN7A02RzFxy9haPO3sDRO3gIC2YW1LrUnuVpim+pwWboK6XfF/hRSJ+FPwUb91kCKrk5fbPlRhAxHA3D0TAcDcPRMBwNw9EwHM2g4afLVYp7JakV9+P91O8sjO6NDxVvHr7aHyU86+97Ta9Q1s1cnD/fqp9nWDAPD486ud8W4+M1rvY9C+bhuSE6p1drDLeSG6JzerXGcCu5ITpXTOVfXYO66NxkvuMa1CV3ri/m4aF8Jffbcr/3fTEPb05un8PJvxVPdnpyG4p5+FgxHA3D0TAcDcPRMBwNw9G4+XoriNxidxBEznsviEDDvbwBLrAs916z3mIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Google - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d9dd2733d66555e504bc39d44b743f60.png" xmlns="">0xNLQuKxyxkuacik0qqkklg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

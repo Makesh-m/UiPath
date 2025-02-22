@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fmo9qNiq6ECa029Hmu1REQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1718, 170, 50, 50" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl aria-role='button' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' tag='A' type='' class='gb_A' aaname='' /&gt;" Guid="89290a13-8378-493a-87f0-821b3b725292" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADYAAAA2CAYAAACMRWrdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG/SURBVGhD7ZddS8JQGMf7KAVelG9FN5XQB6h8ISOKPkaWps5Kl9Fn0gyjwOw7OFJDMfFGsdsnth23ZDLHzrnwkecPv5v9eeD83M7mWVld88AyQmLYIDFskBg2SAwbJIYNEsMGiWGDxLBBYnbshfahUnmB4XAI5fIz7OyGpvpMVoJ2+1sjmbyZ6ubNukWIWL3+Cf9Trb4a3dn5BbtqJhqLO5rlQYjYePzLlqVnNBoZXfHxiV01I8tFR7M8CBGr1T7YsvS8vb0b3aw7Fj85dTTLg7A9pj5C6q9dKpUt+0SSbqHT6UCr1Z65x+xm3SJEbBEhsXmEIzEoyA9wFI5aOq8vAImrpMb6ht/S2826RYhYviCzra9H/W5NuuDmNnw1m6wBaDQUTdTJLA9CxAaDAVuWnm63a3S53B27aiaVSjua5UGIWL/fZ8vS0+v9GF1WyrGrZtIZ867YzfIgROw+X2DL0qO+3ied+iiqf6UmURQF/IEtR7M8CHt5RKLH2j+Kg8OwpfP6gtr36zJxPfPlYTfrFmFiiwaJ2UHHFhY6tnAgRIyOLXRs4YfEsEFi2CAxbJAYNkgMGySGDRLDxpKKeeAPIE2SjVtI9ScAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="082d993ddad21208f1a2ae9c8751b390.png" xmlns="">0155k_TR03EqYAgqztB8Dew</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Workspaces",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "1NopDtzVTkqSmmT03g3qXA",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/1NopDtzVTkqSmmT03g3qXA",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:45.8433279Z",
+  "Updated": "2024-10-02T08:36:45.8433279Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

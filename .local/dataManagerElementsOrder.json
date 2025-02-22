@@ -1,0 +1,107 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "var_InputText&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Workflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DialogBoxName&Sequence_1",
+        "variable1_floar&Sequence_1",
+        "decimalValue&Sequence_1",
+        "booleanValue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsCSharp/Samples/Ping Monitor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPing&Flowchart_2",
+        "output&Flowchart_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Arguments_Demo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "Result",
+        "SecondNum",
+        "FirstNum"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Clothing_Consultant.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "var_CityName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "arg_InputText"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Robot_1_WeatherPreditction.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputElement&Sequence_1",
+        "outfitSuggestion&Sequence_1",
+        "var_RainGear&Sequence_1",
+        "var_Weather&Sequence_1",
+        "var_Temperature&Sequence_1",
+        "var_CityName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "UseCase_HyperAutomation/UseCase_1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_1",
+        "var_InputData&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Udemy_Course/Robot_1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "var_OP&Sequence_2",
+        "var_Input&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

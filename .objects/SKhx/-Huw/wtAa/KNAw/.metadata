@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Collections",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "KNAwqTibXUesaK1AoVXcog",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/KNAwqTibXUesaK1AoVXcog",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:47.6031315Z",
+  "Updated": "2024-10-02T08:36:47.6031315Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

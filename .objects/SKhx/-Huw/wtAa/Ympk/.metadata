@@ -1,0 +1,13 @@
+﻿{
+  "Name": "I'm Feeling Lucky",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Ympkd81nkESoOzByOOe89w",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/Ympkd81nkESoOzByOOe89w",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:48.9202315Z",
+  "Updated": "2024-10-02T08:36:48.9202315Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

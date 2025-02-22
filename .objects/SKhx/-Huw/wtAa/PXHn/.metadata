@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Split screen",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "PXHn4AiTU0C8sH4YF7eYAA",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/PXHn4AiTU0C8sH4YF7eYAA",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:47.3846248Z",
+  "Updated": "2024-10-02T08:36:47.3846248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Copilot (Ctrl+Shift+.)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "vjrVlguta0KhmnYKBLIxvQ",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/vjrVlguta0KhmnYKBLIxvQ",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:47.9053661Z",
+  "Updated": "2024-10-02T08:36:47.9053661Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

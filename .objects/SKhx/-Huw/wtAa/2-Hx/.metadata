@@ -1,0 +1,13 @@
+﻿{
+  "Name": "https://www.google.com",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "2-HxgQQMQkGXCbDrS6yT2Q",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/2-HxgQQMQkGXCbDrS6yT2Q",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:46.7789098Z",
+  "Updated": "2024-10-02T08:36:46.7789098Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

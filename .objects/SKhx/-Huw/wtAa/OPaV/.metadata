@@ -1,0 +1,16 @@
+﻿{
+  "Name": "SearchBox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "OPaVmT_N40e5Plsv-0VkMA",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/OPaVmT_N40e5Plsv-0VkMA",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:48.4247938Z",
+  "Updated": "2024-10-02T08:38:27.2390158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

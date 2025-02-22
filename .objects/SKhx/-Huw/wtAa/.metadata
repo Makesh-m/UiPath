@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Google",
+  "Type": "Screen",
+  "Id": "wtAaZc3KLU2_fz2dIlYe6Q",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/-HuwalEg_0e9zJCgVit6VQ",
+  "Created": "2024-10-02T08:36:45.4742696Z",
+  "Updated": "2024-10-02T08:36:45.4742696Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "PATH",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "lajEMYC1Skq_PynfMN1USA",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/lajEMYC1Skq_PynfMN1USA",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:48.6138407Z",
+  "Updated": "2024-10-02T08:36:48.6138407Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

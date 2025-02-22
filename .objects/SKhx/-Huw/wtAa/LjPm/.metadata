@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Google Search",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LjPmy1z3hU6irtFuTkvsbQ",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/LjPmy1z3hU6irtFuTkvsbQ",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:48.8097083Z",
+  "Updated": "2024-10-02T08:36:48.8097083Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LYC_N4gBCUiAkTxTCH4trg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1294, 480, 8, 7" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl idx='2' tag='circle' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='circle' class='' aaname='' /&gt;" Guid="81c96a71-258b-4ace-82b3-0a4fc3837570" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAwAAAALCAYAAABLcGxfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACUSURBVChTY1BQVPlPCqZcg7qZ/3+DgFYwVjcLRJEDYRQNRmET/zu1fkHBRuFTsGvQdsrAUAzDOi45mBrMktdiVQzC5qmbMDVYZu3BqhiErXIOYmowCsV0Pwwbh0/F1KCsafrfrvI2hmK76nv/lbUtMTWAsKq+03/zlPX/HRvfgLF5yob/qoYucHkQRtFACCub6/wHAM+a8yirntw8AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="24e7662f6f0a901edb68451ce0756124.png" xmlns="">0YyrpQe8vYkSLlulmzVZfFA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

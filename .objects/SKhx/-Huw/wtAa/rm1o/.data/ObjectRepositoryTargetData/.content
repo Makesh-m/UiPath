@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bBbrpTGec0iVPmdxZBC16Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1824, 57, 50, 38" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='Settings and more (Alt+F)' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='Settings and more (Alt+F)' role='push button' automationid='' check:text='Settings and more (Alt+F)' /&gt;" Guid="3d82581c-1265-4fd3-aa57-cc03d445cbd4" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADYAAAAqCAYAAAD4Uag9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAC7SURBVGhD7ZPBCcQgEEW3L4/WYAm24zlHC7AJq7CJaK7eZhnZwOS2kFx++MKDYf6M8BA/zjl5IxRDg2JoUAwNiqFBMTQohgbF0KAYGhRDg2L/kHOWfd8lpXTphxCktbbQ2mY6qzu6a/t3eUzMey/nGWNcsm3bfoms2mY6ex69w2Z3ePTFaq0y55RSyqUfY5TjOKT3vmqb6azu6K7t34V/DA2KoUExNCiGBsXQoBgaFEODYmhQDI2Xijn5AtxNJJr8QPJuAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Google - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="26dd548c82b7e92af9335e522f6e56f0.png" xmlns="">0UPSfNsgITkCJkzn-h2RMBg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

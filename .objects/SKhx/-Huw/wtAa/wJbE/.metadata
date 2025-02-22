@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Tab actions menu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wJbEKnaEVk2DRNHn6ILP9g",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/wJbEKnaEVk2DRNHn6ILP9g",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:45.9392533Z",
+  "Updated": "2024-10-02T08:36:45.9392533Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

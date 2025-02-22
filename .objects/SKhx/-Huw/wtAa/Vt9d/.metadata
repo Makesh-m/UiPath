@@ -1,0 +1,13 @@
+﻿{
+  "Name": "New Tab",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "Vt9dQGBAnkGEKd49HL7U_Q",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/Vt9dQGBAnkGEKd49HL7U_Q",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:46.2148111Z",
+  "Updated": "2024-10-02T08:36:46.2148111Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

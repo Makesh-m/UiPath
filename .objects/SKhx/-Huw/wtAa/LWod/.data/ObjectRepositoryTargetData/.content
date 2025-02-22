@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zCYib98KY0aTZ6JvhfnRZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="7da1dab8-0f0d-4f5a-a021-edca4a9a4d9d" CvElementArea="1772, 17, 27, 23" CvType="MinimizeButton" DesignTimeRectangle="1756, 9, 58, 43" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Google - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' automationid='' check:text='Minimize' /&gt;" Guid="bdbe9949-dccc-4298-81f5-44aa674a7e54" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAD4AAAAvCAYAAAC7S3l6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB2SURBVGhD7dGhDYBAEAXRU3RANevweLo4CW1Q8YcCThGCYGaTZ1ZsMtl2T6CGy/+b1h4iw2kMpzGcxnAaw2kMpzGcxnAaw2kMp/kk/MmM7rzJj9MYTmM4jeE0htMYTmM4jeE0htNww+dtD1FbjjNErapCBA2vXKVh2DUDo7MgAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Google - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9e489e734d1d0daff936803b1ce22c9c.png" xmlns="">0KyRDMhJydU-tMWNCXYHwoA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

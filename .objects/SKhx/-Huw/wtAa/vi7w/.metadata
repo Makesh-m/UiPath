@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Favorites",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "vi7wi1HhL0qjyWXlNiCD8A",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/vi7wi1HhL0qjyWXlNiCD8A",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:47.4825073Z",
+  "Updated": "2024-10-02T08:36:47.4825073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

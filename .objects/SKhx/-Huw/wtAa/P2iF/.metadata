@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser essentials",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "P2iFSL1F90a_QWVwFkSg3A",
+  "Reference": "Frm7DNI-kEyAmR1IhP6D-A/P2iFSL1F90a_QWVwFkSg3A",
+  "ParentRef": "Frm7DNI-kEyAmR1IhP6D-A/wtAaZc3KLU2_fz2dIlYe6Q",
+  "Created": "2024-10-02T08:36:47.7133544Z",
+  "Updated": "2024-10-02T08:36:47.7133544Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
